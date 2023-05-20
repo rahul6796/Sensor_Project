@@ -1,1 +1,2 @@
-# Sensor_Project
+# Sensor Project
+This is a classification problems.
